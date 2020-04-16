@@ -1,0 +1,37 @@
+body {
+  background-image: url("https://www.utep.edu/cs/_Files/images/Home/blur-close-up-code-546819.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.header {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+}
+button {
+  margin-bottom: 10px;
+  font-size: 20px;
+  border-radius: 0.5em;
+  padding: 5px;
+  color: white;
+  background-color: teal;
+  border-color: teal;
+}
+#btntext {
+  color: red;
+}
+#pagename {
+  color: orange;
+}
+#contact {
+  color: aqua;
+}
+#intro {
+  display: block;
+  margin: auto;
+  color: rgba(55, 100, 224, 0.644);
+  border: solid;
+}
